@@ -1,0 +1,11 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+data/raw/*.csv
+data/processed/
+*.log
+.DS_Store
+data/staging/*.csv
+
